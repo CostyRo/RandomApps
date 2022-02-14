@@ -7,6 +7,7 @@
 ## Apps that are in this repo
 
 1. AnagramChecker
+
 ![anagrams](images/anagrams_screenshot.png)
 
     - An app that takes 2 texts and print if them are anagram or not
@@ -16,6 +17,7 @@
         * Button
 
 2. Timer
+
 ![timer](images/timer_screenshot.png)
 
     - A simple timer app
@@ -26,7 +28,9 @@
         * CountDownTimer
 
 3. BooleanAlgebra
+
 ![algebra](images/algebra_screenshot.png)
+
     - A app that can do simple boolean algebra operations
     - Use: 
         * TextView
@@ -36,7 +40,9 @@
         * Kotlin extension to a built-in class
 
 4. MathQuiz
+
 ![math](images/math_screenshot.png)
+
     - An app that gives you math quizes and you need to resolve them to get points
     - Use: 
         * TextView
