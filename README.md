@@ -11,7 +11,7 @@
 
 ![anagrams](images/anagrams_screenshot.png)
 
-    - An app that takes 2 texts and print if them are anagram or not
+    - An app that takes 2 texts and prints if them are anagrams or not
     - Use: 
         * PlainText
         * TextView
