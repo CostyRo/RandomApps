@@ -3,6 +3,7 @@
 - ##### This is a repository with random android apps.
 - ##### I don't know if this repository will be updated in the future, maybe or maybe not
 - ##### I was needed to relearn some android development, so i said the best way to do this is to make some apps
+- ##### Now this repo is extended with a Flutter app, i did this app to learn Flutter
 
 ## Apps that are in this repo
 
@@ -51,3 +52,13 @@
         * Number(Signed)
         * CountDownTimer
         * Toast
+
+5. Xand0
+
+![xand0](images/xand0_screenshot.png)
+
+    - An app for playing unlimited rounds of X and 0
+    - Use:
+        * Flutter
+        * Dart
+        * Async programming
